@@ -5,7 +5,7 @@ function dado(max) {
 
 // Referencias a los elementos HTML
 const boton = document.getElementById('giraDado');
-const resultadoDiv = document.getElementById('resultado');
+const resultadoDiv = document.getElementById('resultado11');
 
 // Agregar un evento al botón
 boton.addEventListener('click', () => {
